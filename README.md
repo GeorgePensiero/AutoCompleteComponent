@@ -2,4 +2,4 @@
 
 # Usage
 
-* Npm run start(opens application on localhost:3000
+* Npm run start (opens application on localhost:3000)
