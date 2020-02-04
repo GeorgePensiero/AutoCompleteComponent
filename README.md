@@ -1,3 +1,5 @@
 # AutoCompleteComponent
 
-Start by running npm run start in console
+# Usage
+
+* Npm run start(opens application on localhost:3000
