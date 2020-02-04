@@ -1,0 +1,98 @@
+
+
+ul {
+  list-style-type: none;
+}
+
+.App1 {
+  text-align: center;
+}
+
+.container1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 400px;
+}
+
+.search-container1{
+  width: 484px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+.selected1{
+  min-height: 30px;
+  margin: 15px;
+  min-width: 40px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+}
+
+.input-section1{
+  align-items: center;
+  background: #fff;
+  display: flex;
+  border: none;
+  box-shadow: none;
+  height: 44px;
+  text-align: center;
+  padding-left: 10px;
+}
+
+.search-container1:hover{
+  box-shadow: 0px 5px 5px #888888;
+}
+
+.searchbar1{
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+  color: rgba(0,0,0,.87);
+  word-wrap: break-word;
+  outline: none;
+  display: flex;
+  flex: 100%;
+  font-size: 16px;
+  padding-left: 15px;
+}
+
+
+
+.dropdown1{
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+
+}
+
+.searchbar1:focus{
+  outline: none;
+}
+
+.prediction-list1{
+  margin: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.list-el1{
+  padding: 10px;
+  border-radius: 2px;
+  font-size: 15px;
+}
+
+.focused1 {
+  background-color: #EDFCFB;
+  font-weight: bold;
+  color: #36A1A1;
+}
+
+.unfocused1{
+  background-color: #FFF;
+}
+
+
+
+
