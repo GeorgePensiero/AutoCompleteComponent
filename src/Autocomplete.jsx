@@ -69,7 +69,6 @@ export default function AutoComplete(props){
     
     
     useEffect(() => {
-        console.log(props.uniq_tag)
         window.addEventListener('keydown', e => keyPress(e));
 
         return () => {
